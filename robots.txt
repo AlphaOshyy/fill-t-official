@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alphaoshyy.github.io/fill-t-official/sitemap.xml
